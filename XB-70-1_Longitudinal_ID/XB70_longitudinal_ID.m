@@ -6,6 +6,8 @@
 % Part of the Aircraft system Identification module labs in Cranfield University.
 % Data extracted from Technical Report NASA TN D-4578
 
+% Code written by Gonzalo Valdés, Feb 2020
+
 clc
 clear all
 close all

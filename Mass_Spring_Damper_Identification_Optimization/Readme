@@ -1,3 +1,4 @@
-Code written as part as the labs from the Aircraft System Identification module from Cranfield University.
-Perform an ordinery least squares parameters identification with the normalized equation and understand the effect of noise on the estimations of the parameters.
+Code written as part of the Aircraft System Identification module from Cranfield University.
+Perform an ordinery least squares parameters identification with normalized equation and understand the effect of noise on the estimations of the parameters.
 Cost function topology determination.
+Modeled using Simulink.
